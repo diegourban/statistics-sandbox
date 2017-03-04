@@ -9,6 +9,8 @@
 09. [População x Amostra: Pensando em um estudo](./População x Amostra: Pensando em um estudo)
 10. [Praticando: Graus de Liberdade](./Praticando: Graus de Liberdade)
 11. [Diminuindo o erro: Intervalos de Confiança](./Diminuindo o erro: Intervalos de Confiança)
+12. [Praticando: Intervalos de Confiança](./Praticando: Intervalos de Confiança)
+
 
 
 
