@@ -26,7 +26,7 @@ Gerando as listas x1 e x2:
 
 A nossa H0 é aquela hipótese que queremos anular, ou seja, de que o remédio não faz efeito. A Halt é que o remédio faz a diferença na temperatura do corpo da pessoa.
 
-Teste do Estudante
+### Teste do Estudante
 Vamos, enfim, rodar o Teste do Estudante, utilizando o comando "t.test( )":
 
 ```
