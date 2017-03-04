@@ -11,7 +11,7 @@ Um apartamento de 63 metros quadrados, qual será o valor dele seguindo a propor
 
 Nós traçamos aquela melhor reta pelos pontos já obtidos e calculamos sua função f(x). Sabendo essa função, basta calcularmos f(63) para prever o valor do apartamento, esse será o melhor chute.
 
-![est2_5_1](./est2_5_1.png)
+![est2_5_2](./est2_5_2.png)
 
 
 Chamamos isso de Regressão Linear, que tem esse nome pois toda função que acharemos será linear, ou seja, de primeiro grau:
