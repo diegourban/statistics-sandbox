@@ -27,12 +27,18 @@ Essa linha nos indica graficamente a correlação entre as variáveis, quanto um
 
 Nós estudamos a correlação entre variáveis construindo essa linha e medindo a distância entre ela e os pontos.
 
-Geralmente, funções de correlação nos retornam valores entre -1 e 1. - ]0, 1]: a correlação é positiva, se uma variável cresce, a outra cresce. - [-1, 0[: a correlação é negativa, se uma variável cresce, a outra decresce. - zero: não há correlação alguma entre as variáveis.
+Geralmente, funções de correlação nos retornam valores entre -1 e 1.
+* ]0, 1]: a correlação é positiva, se uma variável cresce, a outra cresce.
+* [-1, 0[: a correlação é negativa, se uma variável cresce, a outra decresce.
+* zero: não há correlação alguma entre as variáveis.
 
 Veja o que seria um gráfico no qual a correlação entre duas variáveis é zero ou quase zero:
 
 ![est2_3_4](./est2_3_4.png)
 
-Da mesma forma que selecionamos qual Teste de Hipótese ou Tendência Central utilizaremos para cada tipo de dado, também devemos observar as amostras para escolher o tipo de Teste de Correlação que melhor se adequa. - Para uma distribuição Normal: Teste de Pearson. - Para uma distribuição não Normal: Teste de Spearman.
+Da mesma forma que selecionamos qual Teste de Hipótese ou Tendência Central utilizaremos para cada tipo de dado, também devemos observar as amostras para escolher o tipo de Teste de Correlação que melhor se adequa. 
+
+* Para uma distribuição Normal: Teste de Pearson.
+* Para uma distribuição não Normal: Teste de Spearman.
 
 ATENÇÃO: Correlação não implica em Causalidade. Ou seja, mesmo havendo uma alta correlação entre duas variáveis, isso não significa que uma causa a outra.
