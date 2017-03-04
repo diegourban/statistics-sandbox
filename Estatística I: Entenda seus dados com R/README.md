@@ -7,6 +7,8 @@
 07. [Entendendo melhor a distribuição: Variância e Desvio Padrão](./Entendendo melhor a distribuição: Variância e Desvio Padrão)
 08. [Praticando: Desvio Padrão](./Praticando: Desvio Padrão)
 09. [População x Amostra: Pensando em um estudo](./População x Amostra: Pensando em um estudo)
+10. [Praticando: Graus de Liberdade](./Praticando: Graus de Liberdade)
+
 
 
 
