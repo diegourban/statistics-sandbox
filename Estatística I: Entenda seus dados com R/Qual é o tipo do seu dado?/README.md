@@ -10,6 +10,7 @@ Sexo:
 * Masculino
 * Feminino
 * Não quero declarar
+
 Este é um tipo de dado que chamamos de Categórico, pois temos categorias e um é diferente do outro e não possuem relação. Masculino não é melhor que Feminino e assim por diante.
 
 Um outro tipo de dado comum é o que chamamos de dado Ordinal. Por exemplo, você acabou de fazer um curso e pedem para você avaliar o professor de 1 a 10:
@@ -42,6 +43,7 @@ Temos os nomes dos alunos de uma escola e a quantidade de aulas que cada um assi
 * Felipe: 4 aulas
 * João: 6 aulas
 * José: 5 aulas
+
 Agora queremos entender essas informações: quantas aulas os alunos assistem na escola? Para tal, utilizaremos um Histograma. O Histograma é um gráfico que mostra a quantidade de frequências e quantas vezes elas se repetem.
 
 Quantidade de aulas assistidas | Quantidade de alunos
