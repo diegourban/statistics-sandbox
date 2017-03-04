@@ -1,4 +1,5 @@
-### Praticando: Teste do Estudante e Wilcoxon
+# Praticando: Teste do Estudante e Wilcoxon
+
 Agora que você já sabe o que é um Teste de Hipótese, está na hora de colocar isso em prática no R. Vamos utilizar o mesmo exemplo da aula passada: o remédio que abaixa a febre.
 
 Nós temos as temperaturas dos pacientes antes e depois do remédio distribuídas em duas listas. Para isso vamos rodar um comando cuja função é gerar lista de números aleatórios, o "runif(a, b, c)", onde: - a: quantidade de elementos da lista - b: valor máximo - c: valor mínimo
@@ -25,7 +26,7 @@ Gerando as listas x1 e x2:
 
 A nossa H0 é aquela hipótese que queremos anular, ou seja, de que o remédio não faz efeito. A Halt é que o remédio faz a diferença na temperatura do corpo da pessoa.
 
-Teste do Estudante
+### Teste do Estudante
 Vamos, enfim, rodar o Teste do Estudante, utilizando o comando "t.test( )":
 
 ```

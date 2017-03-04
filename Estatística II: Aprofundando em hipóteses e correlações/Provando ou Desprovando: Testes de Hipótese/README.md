@@ -1,3 +1,5 @@
+# Provando ou Desprovando: Testes de Hipótese
+
 Vamos continuar nossa discussão da aula passada. Para isso vejo um exemplo:
 Um laboratório criou um novo remédio com o propósito de acabar com a febre das pessoas. Queremos descobrir se esse remédio faz efeito nos pacientes ou não. Como fazer isso? Em primeiro lugar, não temos condições de acesso a toda população com febre no planeta, portanto trabalharemos em cima de uma amostra.
 
@@ -21,6 +23,7 @@ Precisamos mostrar que H0 é falsa. Provando isso, consequentemente Halt é verd
 Medimos a febre de uma população de 100 pessoas, e descobrimos que a média da temperatura corporal delas é de 38,3 graus Celsius.
 
 Colocando os dados em uma distribuição, desenhamos o gráfico:
+
 ![gráfico 1](./est2_1_1.png)
 
 Após medicarmos essas 100 pessoas com o nosso remédio, observamos que sua temperatura corporal média foi para 36,3 graus Celsius.
