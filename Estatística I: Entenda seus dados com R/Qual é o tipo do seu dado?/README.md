@@ -55,12 +55,12 @@ Perceba que temos a mesma informação só que disposta de outra maneira.
 
 Porém, com essa tabela, conseguimos criar um gráfico:
 
-![histograma](/histograma.png)
+![histograma](./histograma.png)
 
 Esse é o Histograma, o gráfico que mostra a frequência em que as coisas aconteceram em minha distribuição. Nesse exemplo utilizamos poucos dados, mas imaginemos uma distribuição maior. Deixaria bem claro o que está acontecendo, em relação às aulas assistidas, na escola.
 
 Se traçarmos uma linha por esse gráfico:
-![histograma-linha](/histograma-linha.png)
+![histograma-linha](./histograma-linha.png)
 
 Essa curva formada é importantíssima e é o que chamamos de Curva Normal. É essa curva que esperamos numa distribuição comum. Se, por exemplo, desenharmos o Histograma da altura de um homem brasileiro, veremos que poucos estarão nas faixas menores e maiores e muitos nas faixas centrais. Muita gente estará na média e pouca nos dois extremos. Entender se sua distribuição está dentro ou não dessa curva também é de extrema importância para escolhermos o teste estatístico ideal. Falaremos mais para frente sobre ela.
 
