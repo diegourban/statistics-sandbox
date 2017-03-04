@@ -67,4 +67,5 @@ Essa curva formada é importantíssima e é o que chamamos de Curva Normal. É e
 ### Revendo:
 * antes de estudarmos a Média, ou o Teste de Correlação, ou Teste de Hipótese (veremos tudo isso nas próximas aulas), devemos entender os tipos de dados: Categóricos, Ordinais e Intervalares.
 * Depois pensamos no formato da distribuição. Uma maneira fácil é desenhando um Histograma, que nos mostra a frequência da distribuição. Os testes a serem aplicados mudam se ela for Normal ou não.
+
 Com essas informações na cabeça, você está pronto para começar a entender mais sobre estatística. Até a próxima aula!
