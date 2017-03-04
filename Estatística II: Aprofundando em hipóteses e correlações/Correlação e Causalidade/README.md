@@ -10,7 +10,8 @@ X | Y
 3 | 6
 4 | 8
 
-Percebe-se uma relação muito forte entre essas duas variáveis. Quando X cresce, Y também cresce na mesma proporção. Se traçarmos um gráfico:
+Percebe-se uma relação muito forte entre essas duas variáveis. Quando X cresce, Y também cresce na mesma proporção. 
+Se traçarmos um gráfico:
 ![est2_3_1](./est2_3_1.png)
 
 Nesse caso temos uma correlação linear, além de ser perfeita, pois não possui sequer um ponto fora da curva. Chamamos essa correlação perfeita de +1.0. Em exemplos reais é quase impossível chegarmos a esse tipo de correlação. Muito provavelmente você encontrará algo parecido com isso:
