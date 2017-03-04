@@ -4,7 +4,7 @@ Na aula passada estudamos sobre Testes de Hipótese, cuja ideia era verificar se
 Nesta aula vamos comparar duas variáveis, porém de maneira diferente. Veremos a correlação entre elas, ou seja, quando uma muda a outra também muda junto. Por exemplo: quanto mais nuvens no céu maior a área onde a chuva cai. Vejamos um exemplo com duas variáveis quaisquer X e Y:
 
 X | Y
-- | -
+------------ | -------------
 1 | 2
 2 | 4
 3 | 6
