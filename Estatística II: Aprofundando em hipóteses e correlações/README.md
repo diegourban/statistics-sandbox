@@ -4,3 +4,4 @@
 04. [Praticando: Pearson e Spearman](./Praticando: Pearson e Spearman)
 05. [Prevendo dados usando Regressão Linear](./Prevendo dados usando Regressão Linear)
 06. [Praticando: Regressão Linear](./Praticando: Regressão Linear)
+07. [O que fazer agora?](./O que fazer agora?)
