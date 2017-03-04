@@ -51,12 +51,12 @@ Agregando com o que aprendemos na aula passada:
 * e rodar o Teste de Hipótese.
 * Ao rodá-lo, verifique o p-value. Ele é pequeno? A hipótese que queríamos provar é verdadeira.
 
-## Two Tailed Test, One-Sided Test
+### Two Tailed Test, One-Sided Test
 
 Mas e se:
 
-#nosso remédio aumentasse a febre?
-#estivermos experimentando o remédio para saber qual seu efeito?
+1. nosso remédio aumentasse a febre?
+2. estivermos experimentando o remédio para saber qual seu efeito?
 
 Estamos preocupados aqui com os dois lados: os valores crescerem ou diminuírem. No gráfico que já mostramos os valores estão em ambos os lados da distribuição.
 
@@ -70,7 +70,7 @@ Esse é um caso de One Sided Test.
 
 A ferramenta de estatística, quando você for rodar o t-test (ou Wilcoxon), ira perguntar se o teste é Two Tailed ou One-sided.
 
-## Um outro exemplo
+### Um outro exemplo
 Em termos práticos, se conseguirmos formular a Halt utilizando o sinal de diferente (?), as coisas ficam mais fáceis de serem visualizadas.
 
 Queremos descobrir se a média de salário das mulheres é diferente da dos homens no Estado de SP.
@@ -83,7 +83,7 @@ Halt: os salários são diferentes
 
 No primeiro exemplo, como queríamos saber apenas se o remédio abaixava a febre, olhamos para apenas um dos lados.
 
-## Revendo
+### Revendo
 Em um Teste de Hipótese:
 
 * verificamos se uma hipótese é verdadeira ou não negando uma hipótese, a Hipótese Nula e assumindo que a outra é verdadeira, a Hipótese Alternativa;
