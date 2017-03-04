@@ -16,10 +16,8 @@ Percebe-se uma relação muito forte entre essas duas variáveis. Quando X cresc
 Nesse caso temos uma correlação linear, além de ser perfeita, pois não possui sequer um ponto fora da curva. Chamamos essa correlação perfeita de +1.0. Em exemplos reais é quase impossível chegarmos a esse tipo de correlação. Muito provavelmente você encontrará algo parecido com isso:
 ![est2_3_2](./est2_3_2.png)
 
-
 A questão aqui é qual será a melhor linha reta a ser traçada por esses pontos.
 ![est2_3_3](./est2_3_3.png)
-
 
 Essa linha nos indica graficamente a correlação entre as variáveis, quanto uma influencia a outra.
 
@@ -29,7 +27,6 @@ Geralmente, funções de correlação nos retornam valores entre -1 e 1. - ]0, 1
 
 Veja o que seria um gráfico no qual a correlação entre duas variáveis é zero ou quase zero:
 ![est2_3_4](./est2_3_4.png)
-
 
 Da mesma forma que selecionamos qual Teste de Hipótese ou Tendência Central utilizaremos para cada tipo de dado, também devemos observar as amostras para escolher o tipo de Teste de Correlação que melhor se adequa. - Para uma distribuição Normal: Teste de Pearson. - Para uma distribuição não Normal: Teste de Spearman.
 
