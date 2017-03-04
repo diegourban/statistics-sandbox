@@ -1,4 +1,5 @@
-Correlação e Causalidade
+# Correlação e Causalidade
+
 Na aula passada estudamos sobre Testes de Hipótese, cuja ideia era verificar se duas amostras são diferentes. Vimos o exemplo do remédio para febre: ao analisar duas amostras verificamos se a diminuição da febre ocorria de verdade ou era por sorte.
 
 Nesta aula vamos comparar duas variáveis, porém de maneira diferente. Veremos a correlação entre elas, ou seja, quando uma muda a outra também muda junto. Por exemplo: quanto mais nuvens no céu maior a área onde a chuva cai. Vejamos um exemplo com duas variáveis quaisquer X e Y:
