@@ -1,4 +1,5 @@
-### Praticando: Teste do Estudante e Wilcoxon
+# Praticando: Teste do Estudante e Wilcoxon
+
 Agora que você já sabe o que é um Teste de Hipótese, está na hora de colocar isso em prática no R. Vamos utilizar o mesmo exemplo da aula passada: o remédio que abaixa a febre.
 
 Nós temos as temperaturas dos pacientes antes e depois do remédio distribuídas em duas listas. Para isso vamos rodar um comando cuja função é gerar lista de números aleatórios, o "runif(a, b, c)", onde: - a: quantidade de elementos da lista - b: valor máximo - c: valor mínimo
