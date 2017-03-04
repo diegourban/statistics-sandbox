@@ -4,5 +4,7 @@
 04. [Praticando: Média, Mediana e Moda](./Praticando: Média, Mediana e Moda)
 05. [Variabilidade, Dispersão dos Dados, Outliers e Quartis](./Variabilidade, Dispersão dos Dados, Outliers e Quartis)
 06. [Praticando: Boxplots](./Praticando: Boxplots)
+07. [Entendendo melhor a distribuição: Variância e Desvio Padrão](./Entendendo melhor a distribuição: Variância e Desvio Padrão)
+
 
 
