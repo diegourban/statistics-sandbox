@@ -21,7 +21,7 @@ Precisamos mostrar que H0 é falsa. Provando isso, consequentemente Halt é verd
 Medimos a febre de uma população de 100 pessoas, e descobrimos que a média da temperatura corporal delas é de 38,3 graus Celsius.
 
 Colocando os dados em uma distribuição, desenhamos o gráfico:
-![gráfico 1](/est2_1_1.png)
+![gráfico 1](./est2_1_1.png)
 
 Após medicarmos essas 100 pessoas com o nosso remédio, observamos que sua temperatura corporal média foi para 36,3 graus Celsius.
 
@@ -31,7 +31,7 @@ A ideia aqui é verificar qual a chance da média ser 36,3. É uma questão de p
 
 Por motivos de cálculo estatístico, nós utilizamos o conceito de Nível de Confiança, logo, nesse caso, ele é de 95%. Se voltarmos para o gráfico, perceba que a chance da temperatura medida estar nos extremos é pequena.
 
-![gráfico 2](/est2_1_2.png)
+![gráfico 2](./est2_1_2.png)
 
 Note que os 5% foi dividido na metade e distribuído nos extremos do gráfico.
 
@@ -64,7 +64,7 @@ Isso é o que chamamos de Two Tailed Test, ou seja, estamos olhando para os dois
 
 Preste atenção que depende muito da maneira como você formula seu problema. Se, no exemplo, tivéssemos a certeza de que o remédio só abaixa a febre, poderíamos olhar para apenas um dos extremos.
 
-![gráfico 3](/est2_1_3.png)
+![gráfico 3](./est2_1_3.png)
 
 Esse é um caso de One Sided Test.
 
